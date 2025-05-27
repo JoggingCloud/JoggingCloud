@@ -12,11 +12,13 @@ I'm an AI Programmer with a strong focus on real-time mutli-threaded navigation,
 
 ## 📌 Featured Projects
 
-Here are some of my pinned and active repositories:
+[![3D Multi-Threaded AI Navigation](https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud\&repo=3D-Multi-Threaded-AI-Navigation-with-Pathfinding-and-Obstacle-Avoidance\&theme=tokyonight)](https://github.com/JoggingCloud/3D-Multi-Threaded-AI-Navigation-with-Pathfinding-and-Obstacle-Avoidance)
 
-* 🔁 [The Maze](https://github.com/JoggingCloud/The-Maze): A 3D multithreaded AI pathfinding project combining A\* and ORCA with a live debug system
-* 💬 [MarkovSystem](https://github.com/JoggingCloud/MarkovSystem): A dialogue system built using first- and second-order Markov chains with memory tracking
-* 🧱 [Navisyn Engine](https://github.com/JoggingCloud/Navisyn-Engine): My custom game engine supporting DirectX11, AI systems, a multithreaded job system, and a custom nav mesh generator
+[![The Maze](https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud\&repo=The-Maze\&theme=tokyonight)](https://github.com/JoggingCloud/The-Maze)
+
+[![MarkovSystem](https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud\&repo=Markov-Chain-System\&theme=tokyonight)](https://github.com/JoggingCloud/Markov-Chain-System)
+
+[![Navisyn Engine](https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud\&repo=Navisyn-Engine\&theme=tokyonight)](https://github.com/JoggingCloud/Navisyn-Engine)
 
 ---
 
