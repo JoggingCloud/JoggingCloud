@@ -1,12 +1,17 @@
 # 👋 Hi, I'm Jabari
-
+<p align="center">
+  <a href="https://sites.google.com/view/jabari-belgrave/home">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=plastic" alt="Portfolio Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/jabaribelgrave/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
 I'm an AI Programmer with a strong focus on real-time mutli-threaded navigation, and game AI systems. My work spans from custom pathfinding systems such as A\* to velocity-based avoidance algorithms, and probabilistic modeling, and I've built everything in a fully custom C++ engine.
 
 * 🎓 Master's in Game Development (AI Specialization)
 * 🧠 Passionate about AI, optimization, and system design
 * 💬 I love talking about AI pathfinding, and AI systems
-
-📌 [Portfolio Website](https://sites.google.com/view/jabari-belgrave/home) | [LinkedIn](https://www.linkedin.com/in/jabaribelgrave/)
 
 ---
 
