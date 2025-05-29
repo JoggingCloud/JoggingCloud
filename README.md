@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
-I'm an AI Programmer with a strong focus on real-time mutli-threaded navigation, and game AI systems. My work spans from custom pathfinding systems such as A\* to velocity-based avoidance algorithms, and probabilistic modeling, and I've built everything in a fully custom C++ engine.
+I'm an AI Programmer with a strong focus on real-time mutli-threaded navigation, and game AI systems. My work spans from custom pathfinding systems such as A* to velocity-based avoidance algorithms, and probabilistic modeling, and I've built everything in a fully custom C++ engine.
 
 * 💡 AI Specialization
 * 🧠 Passionate about AI, optimization, and system design
