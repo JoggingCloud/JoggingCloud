@@ -9,7 +9,7 @@
 </p>
 I'm an AI Programmer with a strong focus on real-time mutli-threaded navigation, and game AI systems. My work spans from custom pathfinding systems such as A\* to velocity-based avoidance algorithms, and probabilistic modeling, and I've built everything in a fully custom C++ engine.
 
-* 🎓 Master's in Game Development (AI Specialization)
+* 💡 AI Specialization
 * 🧠 Passionate about AI, optimization, and system design
 * 💬 I love talking about AI pathfinding, and AI systems
 
