@@ -52,7 +52,7 @@ Here are some of my pinned and active repositories:
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoggingCloud\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoggingCloud&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1)
 
 ![JoggingCloud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoggingCloud\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true\&cache_seconds=1)
 
