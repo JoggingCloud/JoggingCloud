@@ -24,7 +24,7 @@ Here are some of my pinned and active repositories:
   <tr>
     <td>
       <a href="https://github.com/JoggingCloud/3D-Multi-Threaded-AI-Navigation-with-Pathfinding-and-Obstacle-Avoidance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud&repo=3D-Multi-Threaded-AI-Navigation-with-Pathfinding-and-Obstacle-Avoidance&theme=github_dark&cache_seconds=1"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud&repo=3D-Multi-Threaded-AI-Navigation-with-Pathfinding-and-Obstacle-Avoidance&theme=github_dark"/>
       </a>
     </td>
     <td>
